@@ -4,7 +4,7 @@ body {
 	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
 	background-size: cover;
 	color: #ffffff;
-	font-family: Roboto, Open Sans, Arial, sans-serif;
+	font-family: "Roboto", "Open Sans", Helvetica, Arial, sans-serif;
 }
 
 p {
