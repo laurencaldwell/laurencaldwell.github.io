@@ -1,0 +1,17 @@
+body {
+
+	text-align: center;
+	background: url("http://i.imgur.com/q0FaaAk.jpg");
+	background-size: cover;
+	background: #000000;
+	color: #ffffff;
+	font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+hr {
+width: 200px;
+}
+
+p {
+font-size: 22px;
+}
