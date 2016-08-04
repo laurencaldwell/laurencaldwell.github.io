@@ -3,15 +3,15 @@ body {
 	text-align: center;
 	background: url("http://i.imgur.com/q0FaaAk.jpg");
 	background-size: cover;
-	background: #000000;
 	color: #ffffff;
-	font-family: "Helvetica Neue", Helvetica, Arial;
-}
-
-hr {
-width: 200px;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 p {
 font-size: 22px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
 }
