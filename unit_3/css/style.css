@@ -1,11 +1,22 @@
 header {
 	background-color: rgba(0,0,0,.25);
+	padding: 20px;
+}
+
+#hero {
+	align-items: center;
+	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
+	background-size: cover;
+	display: flex;
+	height: 100vh;
+	justify-content: center;
+	padding: 0;
+	max-width: 100%;
 }
 
 body {
 
 	text-align: center;
-	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
 	background-size: cover;
 	color: #ffffff;
 	font-family: "Roboto", "Open Sans", Helvetica, Arial, sans-serif;
