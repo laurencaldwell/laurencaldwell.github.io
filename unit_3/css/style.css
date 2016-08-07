@@ -4,15 +4,13 @@
 }
 
 body {
-
-	text-align: center;
-	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
-	background-size: cover;
 	color: #ffffff;
 	font-family: "Roboto", "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 1.5;
-
+	text-align: center;
+	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
+	background-size: cover;
 }
 
 nav {
@@ -29,6 +27,16 @@ nav a {
 	text-transform: uppercase;
 	text-decoration: none;
 }
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+/*img {
+	width: 100%;
+
+}*/
 
 p {
 font-size: 22px;
