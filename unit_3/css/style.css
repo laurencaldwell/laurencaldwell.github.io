@@ -3,22 +3,6 @@
 	margin: 0;
 }
 
-nav {
-	text-align: right;
-	color: #fff;
-	background-color: rgba(0,0,0,.5);
-	padding: 20px;
-
-}
-
-nav a {
-	color: #fff;
-	font-weight: 600;
-	margin-right: 1em;
-	text-transform: uppercase;
-	text-decoration: none;
-}
-
 body {
 
 	text-align: center;
@@ -26,6 +10,24 @@ body {
 	background-size: cover;
 	color: #ffffff;
 	font-family: "Roboto", "Open Sans", Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.5;
+
+}
+
+nav {
+	text-align: right;
+	color: #fff;
+	background-color: rgba(0,0,0,.5);
+	padding: 20px;
+}
+
+nav a {
+	color: #fff;
+	font-weight: 500;
+	margin-right: 1em;
+	text-transform: uppercase;
+	text-decoration: none;
 }
 
 p {
