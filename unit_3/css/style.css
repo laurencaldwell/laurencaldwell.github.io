@@ -1,8 +1,15 @@
-header {
-	background-color: rgba(0,0,0,.3);
-	padding: 25px;
+* {
+	padding: 0;
+	margin: 0;
 }
 
+nav {
+	text-align: right;
+	color: #fff;
+	background-color: rgba(0,0,0,.3);
+	padding: 25px;
+
+}
 
 body {
 
