@@ -38,6 +38,10 @@ a {
 
 }*/
 
+h1, h3, h4, h5 {
+	margin: 20px;
+}
+
 p {
 font-size: 22px;
 }
@@ -46,3 +50,9 @@ ul {
     text-align: center;
     list-style-type: none;
 }
+
+/*footer {
+	background-color: #ffffff;
+	padding: 20px;
+	text-align: center;
+}*/
