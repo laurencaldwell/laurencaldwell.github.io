@@ -4,7 +4,7 @@
 }
 
 body {
-	color: #ffffff;
+	color: #000;
 	font-family: "Roboto", "Open Sans", Helvetica, Arial, sans-serif;
 	font-size: 20px;
 	line-height: 1.5;
@@ -14,7 +14,7 @@ body {
 nav {
 	text-align: right;
 	color: #fff;
-	background-color: rgba(0,0,0,.5);
+	background-color: rgba(0,0,0,.65);
 	padding: 20px;
 }
 
@@ -40,6 +40,7 @@ section {
 	justify-content: center;
 	padding: 0;
 	max-width: 100%;
+	color: #fff;
 }
 
 a {
