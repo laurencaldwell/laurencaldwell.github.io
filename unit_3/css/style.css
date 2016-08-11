@@ -64,7 +64,11 @@ a {
 }*/
 
 h1, h3, h4, h5 {
-	margin: 20px;
+	margin: .5em;
+}
+
+h3 {
+	color: #009FDA;
 }
 
 p {
