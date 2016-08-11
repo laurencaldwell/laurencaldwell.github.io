@@ -34,9 +34,11 @@ section {
 #hero {
 	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
 	background-size: cover;
-	height: 100vh;
+	/*height: 100vh;*/
 	max-width: 100%;
 	color: #fff;
+	padding-top: 11em;
+	padding-bottom: 11em;
 }
 
 #benefits {
