@@ -32,7 +32,6 @@ nav a {
 }
 
 section {
-	background: #e6e6e6;
 	padding: 1.5em;
 }
 
@@ -47,15 +46,13 @@ section {
 }
 
 #benefits {
-	background: #fff;
 }
 
 #howitworks {
-
+	background: #e6e6e6;
 }
 
 #footer {
-	background: #fff;
 }
 
 a {
@@ -86,8 +83,10 @@ ul {
     list-style-type: none;
 }
 
-/*footer {
-	background-color: #ffffff;
-	padding: 20px;
-	text-align: center;
-}*/
+hr {
+	border:none;
+	height:.15em;
+	background-color: #009FDA;
+	width:2.5em;
+	margin:.75em auto;
+}
