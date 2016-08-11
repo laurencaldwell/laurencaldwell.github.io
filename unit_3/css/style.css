@@ -14,8 +14,8 @@ body {
 nav {
 	text-align: right;
 	color: #fff;
-	background-color: rgba(0,0,0,.65);
-	padding: 20px;
+	background-color: #009FDA;
+	padding: .5em;
 }
 
 nav a {
