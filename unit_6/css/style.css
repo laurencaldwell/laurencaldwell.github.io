@@ -48,6 +48,11 @@ footer {
 	padding: 1.5em;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 #hero {
 	background: url("https://raw.githubusercontent.com/laurencaldwell/laurencaldwell.github.io/master/unit_3/images/guatemala_beets_fullsize.jpg");
 	background-size: cover;
@@ -74,11 +79,6 @@ footer {
 
 #howitworks {
 	background: #e6e6e6;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
 }
 
 h1, h3, h4, h5 {
