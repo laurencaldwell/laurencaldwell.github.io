@@ -69,7 +69,6 @@ footer {
 
 /* Why does logo not resize with rest of div? Tried min-width but it traveled off page with shrinking the browser. */
 
-
 #benefits {
 }
 
@@ -77,10 +76,10 @@ footer {
 	background: #e6e6e6;
 }
 
-/*img {
-	width: 100%;
-
-}*/
+img {
+    max-width: 100%;
+    height: auto;
+}
 
 h1, h3, h4, h5 {
 	margin: .5em;
