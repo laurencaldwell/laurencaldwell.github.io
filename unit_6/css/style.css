@@ -72,7 +72,7 @@ img {
     padding: 1em 0;
 }*/
 
-/* Why does logo not resize with rest of div? Tried min-width but it traveled off page with shrinking the browser. */
+/* Tried a transbox with min-width for legibility. Better just to choose new background image.*/
 
 #benefits {
 }
