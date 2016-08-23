@@ -21,6 +21,10 @@ a {
 	text-decoration: none;
 }
 
+nav a:hover {
+	border-bottom: 3px solid white;
+}
+
 nav {
 	text-align: right;
 	color: #fff;
