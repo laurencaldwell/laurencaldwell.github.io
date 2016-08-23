@@ -58,6 +58,18 @@ footer {
 	padding-bottom: 11em;
 }
 
+/*div.transbox {
+    margin: 0em 10em;
+    background-color: #ffffff;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    border-radius: 20px;
+    padding: 1em 0;
+}*/
+
+/* Why does logo not resize with rest of div? Tried min-width but it traveled off page with shrinking the browser. */
+
+
 #benefits {
 }
 
