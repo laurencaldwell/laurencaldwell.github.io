@@ -88,22 +88,30 @@ section {
 	padding-bottom: 4em;
 }
 
-#benefit1 {
-	width: 33%;
+.column {
 	float: left;
-	padding: 0px 0px;
+	width: 30%;
+	height: auto;
+	padding: 1em;
+	margin: 0;
+}
+
+#benefit1 {
+/*	width: 33%;
+	float: left;
+	padding: 0px 0px;*/
 }
 
 #benefit2 {
-	width: 33%; /* Account for margins + border values */
+/*	width: 33%;
 	float: left;
-	padding: 0px 0px;
+	padding: 0px 0px;*/
 }
 
 #benefit3 {
-	width: 33%;
+/*	width: 33%;
 	padding: 0px 0px;
-	float: left;
+	float: left;*/
 }
 
 #howitworks {
@@ -134,4 +142,13 @@ hr {
 	background-color: #009FDA;
 	width:2.5em;
 	margin:.75em auto;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
 }
