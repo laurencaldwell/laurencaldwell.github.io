@@ -72,17 +72,6 @@ section {
     margin: 1em;
 }
 
-/*div.transbox {
-    margin: 0em 10em;
-    background-color: #ffffff;
-    opacity: 0.8;
-    filter: alpha(opacity=80);
-    border-radius: 20px;
-    padding: 1em 0;
-}*/
-
-/* Tried a transbox with min-width for legibility. Better just to choose new background image.*/
-
 #benefits {
 	background-color: #fff;
 }
