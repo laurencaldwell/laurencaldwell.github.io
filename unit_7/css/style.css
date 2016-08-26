@@ -119,13 +119,15 @@ ul {
     list-style-type: none;
 }
 
-hr {
+/*hr {
 	border:none;
 	height:.15em;
 	background-color: #009FDA;
 	width:2.5em;
 	margin:.75em auto;
-}
+}*/
+
+/* Removed blue line under headers */
 
 .clearfix:after {
   visibility: hidden;
