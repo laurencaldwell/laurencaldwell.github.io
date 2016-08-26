@@ -30,7 +30,7 @@ nav {
 
 nav a {
 	color: #fff;
-	font-weight: 400;
+	font-weight: 500;
 	margin-right: 1em;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -51,7 +51,7 @@ section {
 
 #hero {
 	/*background: url("https://laurencaldwell.github.io/unit_6/images/guatemala_beets_fullsize.jpg");*/
-	background: url("https://laurencaldwell.github.io/unit_7/images/kitabi-tea-processing-field.jpg");
+	background: url("https://laurencaldwell.github.io/unit_7/images/kitabi-tea-processing.jpg");
 	background-size: cover;
 	/*height: 100vh;*/
 	max-width: 100%;
