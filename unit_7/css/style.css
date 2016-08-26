@@ -50,7 +50,8 @@ section {
 }
 
 #hero {
-	background: url("https://laurencaldwell.github.io/unit_6/images/guatemala_beets_fullsize.jpg");
+	/*background: url("https://laurencaldwell.github.io/unit_6/images/guatemala_beets_fullsize.jpg");*/
+	background: url("https://laurencaldwell.github.io/unit_7/images/kitabi-tea-processing.jpg");
 	background-size: cover;
 	/*height: 100vh;*/
 	max-width: 100%;
