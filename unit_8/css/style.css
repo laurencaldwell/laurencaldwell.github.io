@@ -1,0 +1,145 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,400italic,500,500italic,700,700italic);
+
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	color: #000;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	line-height: 1.5em;
+	text-align: center;
+}
+
+p {
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
+
+nav {
+	text-align: right;
+	color: #fff;
+	background-color: #009FDA;
+	padding: .5em;
+}
+
+nav a {
+	color: #fff;
+	font-weight: 500;
+	margin-right: 1em;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+nav a:hover {
+/*	border-bottom: 3px solid #82D1EE;*/
+	opacity: .8;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+section {
+	padding: 1.5em;
+}
+
+#hero {
+	background: url("https://laurencaldwell.github.io/unit_7/images/sorting-coffee.jpg");
+	background-size: cover;
+	/*height: 100vh;*/
+	max-width: 100%;
+	color: #fff;
+	padding-top: 11em;
+	padding-bottom: 11em;
+}
+
+.button {
+    background-color: #ED3339;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    border-radius: 12px;
+    margin: 1em;
+    box-shadow: 3px 3px #BD292D;
+}
+
+.button:hover {
+	background-color: #F15B61;
+}
+
+#benefits {
+	background-color: #fff;
+}
+
+.column {
+	float: left;
+	width: 31.3%;
+	height: auto;
+	padding: 1%;
+	margin: 0;
+	display: inline-block;
+}
+
+#benefit1 {
+/*	background-color: #B6E5F6;*/
+}
+
+#benefit2 {
+/*	background-color: #D0EFFA;*/
+}
+
+#benefit3 {
+/*	background-color: #EAF9FE;*/
+}
+
+#howitworks {
+	background: #EAF9FE;
+}
+
+footer {
+	padding: 1.5em;
+	background-color: #fff;
+}
+
+h1, h3, h4, h5 {
+	margin: .5em;
+}
+
+h3 {
+	color: #009FDA;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
+/*hr {
+	border:none;
+	height:.15em;
+	background-color: #009FDA;
+	width:2.5em;
+	margin:.75em auto;
+}*/
+
+/* Removed blue line under headers */
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
