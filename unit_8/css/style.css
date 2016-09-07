@@ -143,3 +143,13 @@ ul {
   clear: both;
   height: 0;
 }
+
+/* media queries below */
+
+@media only screen and (max-width: 575px) {
+	.column {
+		float: none;
+		width: auto;
+		margin: 1em;
+	}
+}
