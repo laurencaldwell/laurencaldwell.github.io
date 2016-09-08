@@ -53,7 +53,6 @@ section {
 #hero {
 	background: url("https://laurencaldwell.github.io/unit_7/images/sorting-coffee.jpg");
 	background-size: cover;
-	/*height: 100vh;*/
 	max-width: 100%;
 	color: #fff;
 	padding-top: 11em;
@@ -152,4 +151,14 @@ ul {
 		width: auto;
 		margin: .75em;
 	}
+
+#hero {
+	background: url("https://laurencaldwell.github.io/unit_7/images/sorting-coffee.jpg");
+	background-size: cover;
+	max-width: 100%;
+	color: #fff;
+	padding-top: 8em;
+	padding-bottom: 8em;
+}
+
 }
