@@ -41,6 +41,14 @@ nav a:hover {
 	opacity: .8;
 }
 
+#mobile {
+	display: none;
+}
+
+#hamburger {
+	height: 1.5em;
+}
+
 img {
     max-width: 100%;
     height: auto;
@@ -161,12 +169,12 @@ ul {
 	padding-bottom: 7em;
 }
 
-nav a {
+#desktop {
 	display: none;
 }
 
-nav {
-	img src=""
+#mobile {
+	display: inline;
 }
 
 }
