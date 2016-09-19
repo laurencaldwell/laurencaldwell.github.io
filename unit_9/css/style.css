@@ -161,4 +161,12 @@ ul {
 	padding-bottom: 7em;
 }
 
+nav a {
+	display: none;
+}
+
+nav {
+	img src=""
+}
+
 }
